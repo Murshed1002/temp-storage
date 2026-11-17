@@ -1,4 +1,115 @@
 {
-  "error": "Insufficient data",
-  "message": "Analyst David Palmer found in fewer than 5 earnings calls"
+  "analyst_name": "David Palmer",
+  "firm": "Evercore ISI",
+  "role": "Senior Equity Research Analyst \u2014 Restaurants/QSR",
+  "coverage_universe": [
+    "McDonald\u2019s (MCD)",
+    "Starbucks (SBUX)",
+    "Yum! Brands (YUM; KFC/Taco Bell/Pizza Hut)",
+    "Restaurant Brands International (QSR)",
+    "Wendy\u2019s (WEN)",
+    "Other global and U.S. quick-service and fast-casual names"
+  ],
+  "questioning_style": {
+    "summary": "Multi-part, data-driven questions that connect process (test/scale/governance) to unit economics and long-term growth. Frames with context, seeks quantification, timing, and guardrails.",
+    "tone": [
+      "professional",
+      "probing but collegial",
+      "solution-oriented"
+    ],
+    "typical_structure": [
+      "Set context (recent trend or strategic initiative)",
+      "Ask for quantification (magnitude, unit economics, throughput, frequency, ROI)",
+      "Pin down timeline (test-to-rollout cadence, gating items)",
+      "Surface risks or trade-offs (cannibalization, franchise alignment, complexity)"
+    ]
+  },
+  "core_focus_areas": [
+    "Unit growth cadence and gating factors (pipeline health, remodel cycles, franchise alignment)",
+    "Unit economics (AUV, four-wall margins, paybacks, royalty mix)",
+    "Value architecture (entry-level value vs. EVMs, price points, franchisee economics)",
+    "Digital/loyalty monetization (active users, frequency lift, attach, offer strategy)",
+    "Beverage platforms (incrementality, daypart mix, check lift, cannibalization)",
+    "Menu/category strategy (beef/chicken/beverage verticals, test design, hand-breaded chicken/wings)",
+    "Throughput/operations tech (drive-thru automation, kitchen layout, Arch IQ/Archy, Make It Golden)",
+    "Geographic mix/international expansion (non-China KFC Europe/Japan; U.S. vs IOM/IDL in MCD)",
+    "Capex and timeline discipline (remodel ROI, new-unit ramp, milestone dates)"
+  ],
+  "keywords_and_phrases": [
+    "re-acceleration",
+    "throughput",
+    "AUV",
+    "unit paybacks",
+    "royalty mix",
+    "entry-level value",
+    "EVM",
+    "frequency",
+    "incrementality",
+    "cannibalization",
+    "test-to-rollout",
+    "timeline",
+    "franchisee alignment",
+    "operational complexity"
+  ],
+  "high_value_metrics_requested": [
+    "Same-store sales with mix vs. traffic split",
+    "Guest counts vs. check growth",
+    "AUV by cohort/format; post-remodel uplift",
+    "Beverage attach and check lift; after-lunch mix",
+    "Loyalty 90-day actives and frequency uplift (e.g., 2.5x)",
+    "Specialty beverage incrementality vs. cannibalization",
+    "Unit payback periods and first-year sales vs. model",
+    "Gross vs. net unit openings; capex per opening; remodel cadence",
+    "Royalty/rent mix by region; non-China growth contribution",
+    "Test KPIs and go/no-go thresholds; national rollout timing"
+  ],
+  "red_flags_that_trigger_followups": [
+    "Vague test results without metrics (incrementality, throughput, margin)",
+    "Shifting timelines for national rollouts or remodel cycles",
+    "Guest counts negative with price-led comps",
+    "Inconsistent value messaging or unclear franchise economic support",
+    "Unquantified cannibalization from new platforms",
+    "Under-delivery vs. guided openings/capex with no gating detail"
+  ],
+  "representative_questions_observed": {
+    "McDonald\u2019s (MCD) \u2013 Q4 2025": "Momentum and pipeline: As beverages move to rollout and chicken/value continue to test, how does the pipeline of ideas translate into 2026 growth? What are the kitchen/ops enablers and timeline to scale? Any learnings improving hit-rate versus earlier tests?",
+    "McDonald\u2019s (MCD) \u2013 Q3 2026": "On U.S. comps and go-to-market: What changes in governance/curation should raise the hit-rate of ideas (after value and chicken iterations)? How are franchisee alignment and process evolving and when should we see the impact?",
+    "Yum! Brands \u2013 Q4 2025": "KFC development: What supports re-acceleration of KFC non-China unit growth back to 2023 levels? Could the composition shift toward higher AUV/royalty markets (e.g., Europe/Japan) lift franchise revenue/margins?",
+    "Starbucks \u2013 Q4 2026": "U.S. company unit growth ramp: What\u2019s the rebuild cadence and long-term run-rate? On drive-thru technology tests, what are the expected throughput and profitability impacts and when could they scale?"
+  },
+  "mcd_specific_persona": {
+    "hot_buttons": [
+      "Entry-level value vs. EVM architecture and guest count response",
+      "Beverage platform incrementality (after-lunch mix, check lift, Red Bull collaboration) and space constraints solved in NEXT remodels",
+      "Hand-breaded chicken platform scope (sandwich/strips vs. bone-in wings) and operational complexity vs. incrementality",
+      "Test-to-rollout governance (Make It Golden, Arch IQ/Archy) and timeline to national scale",
+      "Franchisee economics and alignment (support phase-out, pricing standards, ROI)"
+    ],
+    "preferred_evidence": [
+      "Quantified test KPIs: incrementality, attach, traffic lift, throughput change, crew time",
+      "Cohort analyses (remodel vs. non-remodel, regions, income tiers)",
+      "Concrete dates and ranges for national rollouts/remodel cadence",
+      "Owner-operator cash flow trends tied to value actions"
+    ]
+  },
+  "prep_recommendations_for_management": [
+    "Lead with quantified outcomes for each platform: beverages (50% higher checks, >50% post-lunch mix), loyalty frequency (2.5x), value program traffic/contribution, EVM unit sales up ~7%.",
+    "Provide a crisp test-to-rollout map: gates, sample size, decision dates, national timing windows (quarter/half), and retrofit requirements (beverage cell, kitchen layout).",
+    "Break out unit economics: first-year sales vs. model, payback periods, capex per unit/remodel, expected AUV uplift and throughput gains (where applicable).",
+    "Address cannibalization head-on (e.g., specialty beverages vs. other beverages) and net incrementality by daypart and attachment.",
+    "Clarify franchise alignment and economic support: what\u2019s rolled off, what remains targeted/temporary, and how pricing standards interact with brand value leadership.",
+    "Frame international vs. U.S. contributions to system sales and how value architecture differ across IOM/IDL."
+  ],
+  "do_not_do_list": [
+    "Avoid qualitative-only answers on tests without sharing at least directional KPIs and gating criteria.",
+    "Don\u2019t generalize franchisee alignment\u2014give specifics on participation, program economics, and current pricing posture.",
+    "Don\u2019t over-index on marketing anecdotes without quantifying sustained baseline impact.",
+    "Avoid open-ended timelines\u2014provide windows with dependencies."
+  ],
+  "quick_reference_bullets_for_ir_host": [
+    "Have ready: traffic vs. price splits by segment; beverage incrementality and after-lunch mix; EVM unit sales uplift and owner-operator cash flow impact.",
+    "Timeline card: beverage national rollout windows (U.S./EU), chicken ASTs and scale path, NEXT remodel cadence (5k+/yr run-rate target), Archy drive-thru deployment milestones.",
+    "Unit economics: payback ranges, capex per unit/remodel, expected throughput deltas, staffing/complexity mitigation steps."
+  ],
+  "persona_summary": "David Palmer typically links strategic initiatives (value, beverages, chicken, tech, remodels) to measurable changes in unit economics and growth cadence. Expect multi-part questions seeking quantification, timelines, and franchisee alignment details, with follow-ups if metrics/timing are vague or if comps appear price-led. Be prepared with KPI-backed outcomes, rollout gates, and clear owner-operator economics to maximize credibility."
 }
