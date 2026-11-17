@@ -1,0 +1,160 @@
+{
+  "company": "McDonald's Corporation",
+  "ticker": "MCD",
+  "currentQuarter": {
+    "quarter": "Q3 2026",
+    "reportDate": "2026-11-04",
+    "financials": {
+      "revenue": {
+        "amount": "7.16B",
+        "yoyGrowth": 1.0,
+        "currency": "USD"
+      },
+      "operatingIncome": {
+        "amount": "3.60B",
+        "margin": 50.2
+      },
+      "netIncome": {
+        "amount": "2.49B",
+        "eps": 3.51
+      },
+      "comparableSales": {
+        "global": 1.5,
+        "us": -0.2,
+        "international": 1.4,
+        "idlMarkets": 4.2,
+        "currency": "percent"
+      },
+      "systemwideSales": {
+        "quarter": ">38B",
+        "yoyGrowth": 4.0,
+        "currency": "USD"
+      },
+      "digitalSalesMix": "N/A",
+      "guidance": "No specific guidance in the release; quarterly dividend raised 4% to $1.93 per share"
+    },
+    "operations": {
+      "trafficVsCheck": {
+        "traffic": "N/A",
+        "averageCheck": "N/A",
+        "note": "U.S. comps decline driven by negative guest counts largely offset by positive check growth"
+      },
+      "restaurantMargin": "N/A",
+      "unitCount": {
+        "total": "N/A",
+        "netNew": "N/A"
+      },
+      "deliveryPenetration": "N/A",
+      "loyaltyMembers": {
+        "quarterSystemwideSales": "~$11B",
+        "ttmSystemwideSales": "$41B",
+        "markets": 70
+      }
+    },
+    "strategicHighlights": [
+      "Value platform interventions in the U.S. to support traffic",
+      "Scaled loyalty ecosystem: ~$11B quarterly, $41B TTM across 70 markets",
+      "Dividend increased 4% to $1.93/share",
+      "Restructuring charges related to 'Accelerating the Organization'"
+    ]
+  },
+  "previousQuarter": {
+    "quarter": "Q2 2026",
+    "reportDate": "N/A",
+    "financials": {
+      "revenue": {
+        "amount": "N/A",
+        "yoyGrowth": "N/A"
+      },
+      "comparableSales": {
+        "global": "N/A",
+        "us": "N/A",
+        "international": "N/A",
+        "idlMarkets": "N/A"
+      },
+      "digitalSalesMix": "N/A"
+    },
+    "operations": {
+      "trafficVsCheck": {
+        "traffic": "N/A",
+        "averageCheck": "N/A"
+      },
+      "restaurantMargin": "N/A"
+    },
+    "note": "Prior-quarter detailed metrics not retrieved within tool budget"
+  },
+  "competitorContext": [
+    {
+      "company": "Chipotle Mexican Grill",
+      "ticker": "CMG",
+      "quarter": "Q3 2026",
+      "comparableSales": 2.1,
+      "keyHighlight": "Third consecutive quarter of positive transaction growth; revenue +9.6% to ~$3.3B",
+      "analystConcerns": [
+        "Sustainability of transaction growth as value competition intensifies",
+        "Potential margin pressure from labor and food costs"
+      ],
+      "source": {
+        "name": "Chipotle Announces Third Quarter 2026 Results",
+        "url": "https://newsroom.chipotle.com/2026-10-28-CHIPOTLE-ANNOUNCES-THIRD-QUARTER-2026-RESULTS",
+        "date": "2026-10-28"
+      }
+    },
+    {
+      "company": "Restaurant Brands International",
+      "ticker": "QSR",
+      "quarter": "Q3 2026",
+      "comparableSales": "N/A",
+      "keyHighlight": "Burger King cited as top performer; EPS beat with slight revenue shortfall versus expectations",
+      "analystConcerns": [
+        "Durability of Burger King U.S. turnaround momentum",
+        "Balancing promo-driven traffic with margin expansion"
+      ],
+      "source": {
+        "name": "CNBC coverage of Q3 2026 results",
+        "url": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
+        "date": "2026-10-29"
+      }
+    },
+    {
+      "company": "Yum! Brands",
+      "ticker": "YUM",
+      "quarter": "Q3 2026",
+      "comparableSales": "N/A",
+      "keyHighlight": "Ongoing international growth at KFC and Taco Bell; continued digital and delivery adoption",
+      "analystConcerns": [
+        "FX headwinds and China volatility",
+        "Franchisee health and value balance across concepts"
+      ],
+      "source": {
+        "name": "Yum! Brands Q3 2026 earnings call transcript",
+        "url": "https://stockanalysis.com/stocks/yum/transcripts/719807-q3-2026/",
+        "date": "2026-10-30"
+      }
+    }
+  ],
+  "industryTrends": [
+    "Heightened value-seeking and trade-down behavior pressuring U.S. QSR traffic",
+    "Scaled loyalty ecosystems driving frequency and ticket; growing focus on monetization",
+    "Continued investment in digital ordering and automation to offset labor inflation",
+    "Margin management amid promo activity and commodity/labor cost pressures",
+    "Delivery remains strategically important but profitability sensitive to aggregator fees"
+  ],
+  "sources": [
+    {
+      "name": "McDONALD'S REPORTS THIRD QUARTER 2026 RESULTS",
+      "url": "https://mcdonalds.mediaroom.com/2026-11-04-McDONALDS-REPORTS-THIRD-QUARTER-2026-RESULTS",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "Chipotle Announces Third Quarter 2026 Results",
+      "url": "https://newsroom.chipotle.com/2026-10-28-CHIPOTLE-ANNOUNCES-THIRD-QUARTER-2026-RESULTS",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "Restaurant Brands International (QSR) Q3 2026 earnings - CNBC",
+      "url": "https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html",
+      "date": "2026-10-29"
+    }
+  ]
+}
